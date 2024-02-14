@@ -1,0 +1,9 @@
+359900http://mobi.kuwo.cn/mobi.s?f=kuwo&q=NI8S5evAnmHH4UXcuKKslDk4RFzONrTj1DNPSSYKrOLCiSrScep7CUOU9RpDmtLJ6VGbBO7Ii56Tz66kUMw34wBcRiVFLw+xbYzjB825gKLOgvASvMRCqmQncu/cbUXDCMy2RZycU5k=
+format=mp3
+bitrate=128
+url=http://lx.sycdn.kuwo.cn/adb882f9bbfebb6d269adaa8078c49af/65ccd8b8/resource/n1/55/76/2561002447.mp3?bitrate$128&format$mp3&source$kwplayer_ar_8.5.5.0_apk_keluze.apk&type$convert_url2
+sig=10999421755657740967
+rid=359900
+type=0
+http://lx.sycdn.kuwo.cn/adb882f9bbfebb6d269adaa8078c49af/65ccd8b8/resource/n1/55/76/2561002447.mp3?bitrate$128&format$mp3&source$kwplayer_ar_8.5.5.0_apk_keluze.apk&type$convert_url2
+
