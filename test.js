@@ -225,6 +225,9 @@ const SECRET_KEY = Buffer.from('ylzsxkwm');
 const encrypt = (msg) => crypt(msg, SECRET_KEY, 0);
 const decrypt = (msg) => crypt(msg, SECRET_KEY, 1);
 const encryptQuery = (query) => encrypt(Buffer.from(query)).toString('base64');
+/*
+以上部分贺自 QtUnblock，感谢
+*/
 
 const track = (id) => {
 	const url = 'http://mobi.kuwo.cn/mobi.s?f=kuwo&q=' +
